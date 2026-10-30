@@ -1,3 +1,5 @@
+> **Ovia Inc fork** — We maintain this fork of [hydra-db/open-glean](https://github.com/hydra-db/open-glean), an open-source AI platform for knowledge work: connect apps, find answers, get work done. We evaluate it for the business knowledge assistants we build. Upstream credit: HydraDB. License: Apache-2.0 (see LICENSE). The upstream project is documented below.
+
 # Open Glean, your second brain on Hydra DB
 
 Open Glean is the AI workspace over [Hydra DB](https://hydradb.com). Ask a question
